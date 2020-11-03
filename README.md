@@ -1,2 +1,2 @@
 # DevOps-Monitoring-Challenge
-Solves a DevOps Monitoring Challenge
+Solves the insightdata DevOps Monitoring Challenge
